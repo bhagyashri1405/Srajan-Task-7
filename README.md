@@ -173,7 +173,7 @@ in, enter a topic, technology area, or competitor name, and the pipeline will
 plan, research, evaluate, and return a briefing.
 
 ## Screenshots / Demo Link
-- **Live demo:** https://srajan-6.streamlit.app/
+- **Live demo:** https://srajan-7.streamlit.app/
 - **Screenshots:**
 - <img width="1600" height="749" alt="1" src="https://github.com/user-attachments/assets/584f5271-a6c2-40ce-925e-566412530266" />
 <img width="1600" height="790" alt="2" src="https://github.com/user-attachments/assets/72bab109-1ed4-436c-adf9-c448ce770d8c" />
